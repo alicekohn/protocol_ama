@@ -1,4 +1,4 @@
-# EigenLayer Automation Script
+# EigenLayer AMA Script
 
 This script automates the process of downloading the smart contracts and documentation from the Eigenlayer protocol from a Google Drive folder, uploading them to the Gemini API for processing, and interacting with the processed data via a chat session.
 
